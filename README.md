@@ -11,7 +11,7 @@ By making it compatible with [ARCLE](https://github.com/ConfeitoHS/arcle) enviro
 
 ### Install SOLAR Generator
 
-SOLAR Generator can be installed by cloning the repository as follows:
+SOLAR Generator can be installed by downloading the zip file of the repository and following below instructions.:
 
 ```
 unzip SOLAR-Generator.zip
